@@ -1,0 +1,168 @@
+
+#navbar {
+    background-color: #76c7c0;
+    height: 50px; 
+
+}
+#top-nav {margin-top: 5px;}
+#top-nav ul li{
+display:inline;
+margin: 15px ;
+line-height: 2.5;
+margin-top: 5px;
+
+
+
+}
+#top-nav li a{
+    color: white;
+   font-size: 13px; 
+     text-transform: uppercase;
+    transition: background 0.4s ease-out;
+    -o-transition: background 0.4s ease-out;
+    -moz-transition: background 0.4s ease-out;
+    -webkit-transition: background 0.4s ease-out;
+}
+#top-nav li a:hover {
+    background: red;}
+#mo{
+        font-size: 30px;
+        color: #ffffff;
+}
+#ve {
+    color: #ffffff;
+    font-size: 25px;
+}
+content {
+    background-color: #f3f3f3;
+}
+#contactus{
+    height: 50px;
+    background-color: #ececec;
+}
+#contact {
+    color: #b7bdbd;
+    font-weight: bold;
+    font-size: 15px;
+}
+.arrow-down {
+    width: 0px;
+    height: 0px;
+    border-left: 15px solid transparent;
+    border-right: 15px solid transparent;
+    border-top: 10px solid #ececec;}
+#map {
+    margin-top: 30px;
+}
+#line {
+    background-color: #ececec;
+    margin-top: 50px;
+    width: 1170px;
+    border-radius: 5px;
+}
+#form {
+    margin-top: 50px;
+}
+#send {
+    color: #7f8c8c;
+    font-size: 18px;
+     margin-bottom: 25px;
+}
+input{
+    background-color: #e5e6e6;
+    border-radius: 5px;
+
+}
+#form2, #form4 {
+        margin: 20px 0;
+}
+#sendbut {
+    font-size: 15px;
+    width: 15%;
+}
+#address{ color: #7f8c8c;
+    font-size: 18px;
+     margin-bottom: 25px; }
+#location{
+        margin-bottom: 10px;
+}     
+#faarrow{
+        color: #e2534b;
+    margin-right: 5px;
+}
+#faphone, #faenve {
+    margin-right: 5px;
+}
+#link {
+    margin-left: 5px;
+    color: #e2534b;
+}
+
+footer {
+    height: 350px;
+    background-color: #76c7c0;
+    color: #ffffff;
+    margin-top: 55px;
+}
+#modus { font-size: 30px;
+    font-weight: bold;
+
+}
+#vesus {
+    font-size: 20px;
+}
+#fl1 {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+#end {
+    margin-top: 50px;
+}
+#number, #info {
+        margin-left: 15px;
+    font-size: 120%;
+    font-style: italic;
+    font-weight: 500;
+}
+#company, #community {
+    color: #62a7a1;
+     font-size: 25px;
+}
+#listcompany { 
+
+}
+.fa-ul>li { padding: 3px !important
+
+
+}
+.fa-angle-right {
+    margin-right: 7px;
+}
+#fromthe, #blog {
+    font-size: 25px;
+}
+#blog {
+    font-weight: bold;
+}
+#Each{    margin-top: -70px;
+    margin-left: 90px;}
+    #anh5 {
+        border-radius: 5px;
+    }
+#ftb, #blog2 {
+    margin-top: 25px;
+}
+
+#may26 {
+    color: #5b9c96;
+}
+#footend {
+        height: 50px;
+    background-color: #6ab3ac;
+        margin-top: 62px;
+}
+.iconn {
+    font-size: 30px !important;
+    margin-left: 15px !important;
+        margin-top: 10px !important;
+}
