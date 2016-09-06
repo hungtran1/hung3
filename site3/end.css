@@ -7,10 +7,12 @@
     height: 50px; 
 
 }
+#top-nav {margin-top: 5px;}
 #top-nav ul li{
 display:inline;
 margin: 15px ;
 line-height: 2.5;
+margin-top: 5px;
 
 
 
@@ -162,14 +164,14 @@ section {    margin-top: 50px;
 #image{    margin-top: -250px;}
 #img2 {
     height: 360px;
-    background-color: #c1c7c8;
+    background-color: #c1c7cd;
     border-radius: 10px;
     
 
 }
 #img3, #img1 {
     height: 260px;
-    background-color: #c1c7c8;
+    background-color: #b0b8b9;
     margin-top: 60px;
     
 }
@@ -218,12 +220,16 @@ section {    margin-top: 50px;
     border-top-right-radius: 10px;
   
 }
+#anh4{
+    border-radius: 2px;
+}
 #fa1 {   color: #ececec !important;
     margin-top: 8px !important;
     margin-left: -292px;
 
 }
-.fa-arrow-right {color: red !important}
+.fa-arrow-right {color: red !important;
+                    margin-top: 4px !important;}
 .arrow-down {
     width: 0px;
     height: 0px;
@@ -232,10 +238,14 @@ section {    margin-top: 50px;
     border-top: 30px solid #f3f3f3;
     margin-left: 20px;
 }
+#row2{
+        margin-top: 30px;
+}
 #row3a {
     color: #889494;
     font-size: 20px;
     font-weight: bold;
+    margin-bottom: 30px;
 }
 #row3b{
     background-color: #f3f3f3;
@@ -251,6 +261,7 @@ section {    margin-top: 50px;
 }
 #list {
     height: 600px;
+    padding-top: 30px;
 }
 #l1{
     color: #929c9c;
@@ -295,4 +306,86 @@ section {    margin-top: 50px;
 footer {
     height: 350px;
     background-color: #76c7c0;
+    color: #ffffff;
+}
+#modus { font-size: 30px;
+    font-weight: bold;
+
+}
+#vesus {
+    font-size: 20px;
+}
+#fl1 {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+#end {
+    margin-top: 50px;
+}
+#number, #info {
+        margin-left: 15px;
+    font-size: 120%;
+    font-style: italic;
+    font-weight: 500;
+}
+#company, #community {
+    color: #62a7a1;
+     font-size: 25px;
+}
+#listcompany { 
+
+}
+.fa-ul>li { padding: 3px !important
+
+
+}
+.fa-angle-right {
+    margin-right: 7px;
+}
+#fromthe, #blog {
+    font-size: 25px;
+}
+#blog {
+    font-weight: bold;
+}
+#Each{    margin-top: -70px;
+    margin-left: 90px;}
+    #anh5 {
+        border-radius: 5px;
+    }
+#ftb, #blog2 {
+    margin-top: 25px;
+}
+
+#may26 {
+    color: #5b9c96;
+}
+#footend {
+        height: 50px;
+    background-color: #6ab3ac;
+        margin-top: 62px;
+}
+.iconn {
+    font-size: 30px !important;
+    margin-left: 15px !important;
+        margin-top: 10px !important;
+}
+#mv2013 {
+    margin-top: 15px;
+}
+#WCS{
+    color: #889494;
+        font-size: 20px;
+    font-weight: bold;
+}
+.imgnumber {
+    padding-left: 10px;
+}
+#mo{
+        font-size: 30px;
+        color: #ffffff;
+}
+#ve {
+    color: #ffffff;
+    font-size: 25px;
 }
