@@ -1,3 +1,6 @@
+body {
+    font-family: Roboto, sans-serif;
+}
 
 header { height: 80px; }
 
@@ -49,20 +52,19 @@ header { height: 80px; }
     margin-top: 1%;}
 
 
-
-.content {
-    
-        height: 1570px;
-    background-color: #f3f3f3;
-}
-.contactus{
+.fort{
     height: 80px;
     background-color: #ececec;
 }
-.contact {
-    color: #b7bdbd;
+.fortfolio {
+    color: #7f8c8c;
     font-weight: bold;
-    font-size: 15px;
+    font-size: 18px;
+}
+.content {
+        height: 1480px;
+    background-color: #f3f3f3;
+
 }
 .arrow-down {
     width: 0px;
@@ -70,11 +72,6 @@ header { height: 80px; }
     border-left: 15px solid transparent;
     border-right: 15px solid transparent;
     border-top: 10px solid #ececec;}
-.map {
-    margin-top: 50px;
-    margin-bottom: 60px;
-    width: 1140px;
-}
 .btn-default {
     color: #333;
     background-color: #98a3a3 !important ;
@@ -91,57 +88,32 @@ header { height: 80px; }
     border-color: #ccc;
     margin: 0px 10px;
 color: #f3f3f3 !important}
-.line {
-    background-color: #ececec;
-    height: 90px;
-        padding: 25px 0px;
+.anh6 {
+    width: 555px;
+    height: 270px;
+    margin: 20px 0;
+    border-radius: 3px;
+    box-shadow: 0 5px 0;
+}
+.pagination>li>a, .pagination>li>span {
+    position: relative;
+    float: none !important;
+    padding: 8px 12px !important;
+    margin: 0px 5px !important;
+    line-height: 1.42857143;
+    color: #ffffff !important;
+    text-decoration: none;
+    background-color: #8c9898 !important;
+    border: 0px !important ;
     border-radius: 5px;
-    color: #777777;
 }
-.form {
-    margin-top: 50px;
-}
-.send {
-    color: #7f8c8c;
-    font-size: 22px;
-     margin-bottom: 65px;
-}
-input{
-    background-color: #e5e6e6;
-    border-radius: 5px;
-    margin-right: 15px;
-
-}
-.form1{
-    margin-bottom: 20px;
-}
-.form-control{
-    margin-bottom: 20px;
-}
-}
-.sendbut {
-    font-size: 15px;
-    width: 15%;
+.pagination {
     
-}
-
-.location{
-        margin-bottom: 10px;
-}     
-.faa{
-        color: #e2534b;
-    margin-right: 5px;
-}
-
-}
-.link {
-    margin-left: 5px;
-    color: #e2534b;
-}
-.name {
-    margin-left: 10px;
-    color: #9aa4a4;
-    font-size: 15px;
+    margin: 20px 30% !important; }
+.pagination>li:first-child>a, .pagination>li:first-child>span {
+    
+    border-top-left-radius: 5px !important;
+    border-bottom-left-radius: 5px !important;
 }
 footer {
     height: 350px;
@@ -149,7 +121,12 @@ footer {
     color: #ffffff;
   
 }
+#modus { font-size: 30px;
+    font-weight: bold;
 
+}
+#vesus {
+    font-size: 20px;
 }
 .fl1 {
     margin: 36px 0; }
