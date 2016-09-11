@@ -41,6 +41,7 @@ header { height: 80px; }
   .navbar-nav li a:hover{
       color: #ffffff !important;
       background-color: #e8645a !important;
+      border-radius: 5px;
   }
   .navbar-default .navbar-toggle {
       border-color: transparent;
@@ -50,7 +51,11 @@ header { height: 80px; }
     margin-top: 1% !important;}
 .container>.navbar-header {
     margin-top: 1%;}
-
+.dropdown-menu {
+      background-color: #C2B9EF !important;
+    border-radius: 5px;
+    left: 0px !important;
+}
 
 .fort{
     height: 80px;

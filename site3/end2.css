@@ -143,6 +143,11 @@ input{
     color: #9aa4a4;
     font-size: 15px;
 }
+.dropdown-menu {
+      background-color: #C2B9EF !important;
+    border-radius: 5px;
+    left: 0px !important;
+}
 footer {
     height: 350px;
     background-color: #76c7c0;
