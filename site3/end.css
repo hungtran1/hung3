@@ -91,8 +91,8 @@ ol li {
 
 .someof {
         padding-left: 40px !important;
-}
-#c1 {
+}.logo {margin: 10%;}
+.c1 {
     
     width: 348px;
     color: #ffffff;
@@ -101,12 +101,12 @@ ol li {
     background-color: #e2534b;
     text-align: center;
     margin: auto;
-    margin-top: 70px;
+    
     font-weight: bold;
     border-radius: 5px; 
 }
 
-#c2{
+.c2{
     background-color: #3f4646;
     color: #ffffff;
     height: 70px;
@@ -216,7 +216,7 @@ section {    margin-top: 50px;
 
 }
 .box3 {float: right;
-    margin-top: -235px;}
+    margin-top: -246px;}
 
 .box2 {
     width: 570px;
@@ -226,6 +226,7 @@ section {    margin-top: 50px;
   position: relative;
   float: left;
   margin: -5%;
+  margin-left: -6.7% ;
 }
 .iconbox { padding: 15px 3%}
 .img {    width: 94%;
