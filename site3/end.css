@@ -1,3 +1,5 @@
+
+body { font-family: arial, open_sans.  }
 header { height: 580px; }
 
 
@@ -34,6 +36,7 @@ header { height: 580px; }
   .navbar li a, .navbar .navbar-brand {
       color: #fff !important;
   }
+  
   .navbar-nav li a:hover{
       color: #ffffff !important;
       background-color: #e8645a !important;
@@ -76,9 +79,7 @@ header { height: 580px; }
 .carousel-indicators .active {
     background-color: #e2534b !important;
 }
-ol li {
-    margin-bottom: -45px !important;
-}
+
 
 
 
@@ -171,6 +172,9 @@ section {    margin-top: 50px;
      border-radius: 5px;
      height: 315px;
 }
+.color: hover {
+  background-color: #ffffff;
+}
 
 
 .readmore {
@@ -229,9 +233,9 @@ section {    margin-top: 50px;
   margin-left: -6.7% ;
 }
 .iconbox { padding: 15px 3%}
-.img {    width: 94%;
-    margin: 0 3%;
-border-radius: 5px;}
+.img {   width: 94%;
+          margin: 0 3%;
+        border-radius: 5px;}
 
 
 .fa-circle {
@@ -385,24 +389,29 @@ footer {
 }
 .fl1 {
     margin: 36px 0; }
-
+.tittle{
+  margin-bottom: 15px;
+}
 .number2 {
         margin-left: 15px;
     font-size: 120%;
     font-style: italic;
     font-weight: 500;
 }
-.company {
+.ttcolor {
     color: #62a7a1;
      font-size: 25px;
+
 }
-.listcompany { 
- margin-top: 36px;
+ .tittle .ttcolor a{text-decoration: none;}
+.listttcolor { 
+ 
 }
 .fa-ul>li { padding: 3px !important
 
 
 }
+.fa-ul { margin-bottom: 0px !important }
 .fa-angle-right {
     margin-right: 7px;
 }
@@ -422,8 +431,8 @@ footer {
     }
 .clear {clear: both;}
 .blog1{
-        margin-top: 30px;
-    margin-bottom: 20px;
+      
+  
 }
 
 .may26 {
