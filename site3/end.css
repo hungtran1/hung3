@@ -1,5 +1,5 @@
-
-body { font-family: arial, open_sans.  }
+@import 'https://fonts.googleapis.com/css?family=Open+Sans';
+body { font-family: 'Open Sans', sans-serif;  }
 header { height: 580px; }
 
 
@@ -394,7 +394,7 @@ footer {
 }
 .number2 {
         margin-left: 15px;
-    font-size: 120%;
+    font-size: 150%;
     font-style: italic;
     font-weight: 500;
 }
@@ -411,7 +411,7 @@ footer {
 
 
 }
-.fa-ul { margin-bottom: 0px !important }
+.fa-ul { margin-top: 13px;}
 .fa-angle-right {
     margin-right: 7px;
 }
@@ -430,7 +430,7 @@ footer {
 
     }
 .clear {clear: both;}
-.blog1{
+.blog1{ margin-bottom: 25px;
       
   
 }
@@ -444,7 +444,9 @@ footer {
         height: 50px;
 }
 .iconn {
-    font-size: 30px !important;
-    margin-left: 15px !important;
-        margin-top: 10px !important;
+    
+        font-size: 30px;
+    margin-left: 15px;
+    margin-top: 10px;
+    color: #ffffff;
 }
